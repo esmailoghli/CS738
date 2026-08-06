@@ -1,31 +1,31 @@
 Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 --------------------------------------------
 
-| Week        | Lecture | Topic                                                                             | Speaker    |
-|-------------|---------|-------------------------------------------------------|-----------------------------------|
-| 1 (Jan 5)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Tamer Özsu |
-|             | 2       | Introduction to Database Systems                                                  | Tamer Özsu |
-| 2 (Jan 12)  | 1       | Relational model of data, relational calculus & algebra                           | Tamer Özsu |
-|             | 2       | Relational algebra, SQL                                                           | Tamer Özsu |
-| 3 (Jan 19)  | 1       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | [Anil Goel](https://www.linkedin.com/in/anilkgoel/?originalSubdomain=ca)             |
-|             | 2       | Big data: Dealing with volume                                                     | Tamer Özsu |
-| 4 (Jan 26)  | 1       | Snow day - class cancelled                                                     | Tamer Özsu |
-|             | 2       | Big data: Dealing with volume                                                    | Tamer Özsu |
-| 5 (Feb 2)   | 1       | Big data: Dealing with variety                                                    | Tamer Özsu |
-|             | 2       | Big data: Dealing with variety + velocity                                                   | Tamer Özsu |
-| 6 (Feb 9)   | 1       | Big data: Dealing with velocity                                                   | Tamer Özsu |
-|             | 2       | Cloud computing & cloud-native data management                                    | [Ronen Grosman](https://www.linkedin.com/in/ronen-grosman-84b3391/?originalSubdomain=ca) |
-| 7 (Feb 16)  |         | Reading week - no classes                                                         |            |
-| 8 (Feb 23)  | 1       | Data integration: Data warehouses                                                 | Tamer Özsu |
-|             | 2       | Data integration: Data lakes (_virtual lecture_; DC 1302)                                         | [Fatemeh Nargesian](https://fnargesian.com/) |
-| 9 (Mar 2)   | 1       | Data preparation pipeline (_virtual lecture_; DC 1302)                                                        | [Felix Naumann](https://hpi.de/naumann/people/felix-naumann.html) |
-|             | 2       | Data integration: Data lakehouses (_virtual lecture_; DC 1302)                                                 | [Matei Zaharia](https://people.eecs.berkeley.edu/~matei/)            |
-| 10 (Mar 9)  | 1       | Data acquisition                                                                  |Tamer Özsu |
-|             | 2       | Data profiling  (_virtual lecture over zoom_)                                                                   | [Hazar Harmouch](https://hazourahh.github.io)            |
-| 11 (Mar 16) | 1       | Data quality & data cleaning                                                      | [Mostafa Milani](https://www.csd.uwo.ca/~mmilani7/)           |
-|             | 2       | Data provenance                                                      | [Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html)          |
-| 12 (Mar 23) | 1       | Data quality & data cleaning                                                                   |[Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab)           |
-|             | 2       | LLMs and data management  (_virtual lecture_; DC  1304)                                                      |[Stratos Idreos](https://stratos.idreos.ai/)            |
-| 13 (Mar 30) | 1       | Vector databases (_virtual lecture_; DC 1302)   |[Karima Echihabi](https://echihabi.com/)            |
-|             | 2       | Review and general discussion                                                     |  Tamer Özsu           |
-|   10 April  |         | Final Exam (7:30-10:00 PM) in PAC UPPER 9      |            |
+| Week        | Lecture | Topic                                                                             | Speaker    | Materials |
+|-------------|---------|-------------------------------------------------------|-----------------------------------|-----------|
+| 1 (Sep 10)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Yuhan Liu & Mahdi Esmailoghli |  |
+| 2 (Sep 15)  | 1       | Introduction to Database Systems                                                  | Yuhan Liu |  |
+|             | 2       | Relational model of data, relational calculus & algebra                           | Yuhan Liu |  |
+| 3 (Sep 22)  | 1       | Relational algebra, SQL                                                           | Yuhan Liu |  |
+|             | 2       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | Yuhan Liu |  |
+| 4 (Sep 29)  | 1       | Big data: Dealing with volume                                                     | Yuhan Liu |  |
+|             | 2       | Big data: Dealing with volume                                                     | Yuhan Liu |  |
+| 5 (Oct 6)   | 1       | Big data: Dealing with variety                                                    | Yuhan Liu |  |
+|             | 2       | Big data: Dealing with variety + velocity                                         | Yuhan Liu |  |
+| 6 (Oct 10–18) |         | Reading week - no classes                                                       |           |  |
+| 7 (Oct 20)   | 1       | Big data: Dealing with velocity                                                  | Yuhan Liu |  |
+|             | 2       | Cloud computing & cloud-native data management                                    | Yuhan Liu |  |
+| 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | Mahdi Esmailoghli |  |
+|             | 2       | Data integration: Data lakes (_virtual lecture_; DC 1302)                         | Mahdi Esmailoghli |  |
+| 9 (Nov 3)   | 1       | Data preparation pipeline (_virtual lecture_; DC 1302)                            | Mahdi Esmailoghli |  |
+|             | 2       | Data integration: Data lakehouses (_virtual lecture_; DC 1302)                    | Mahdi Esmailoghli |  |
+| 10 (Nov 10)  | 1       | Data acquisition                                                                 | Mahdi Esmailoghli |  |
+|             | 2       | Data profiling  (_virtual lecture over zoom_)                                     | Mahdi Esmailoghli |  |
+| 11 (Nov 17) | 1       | Data quality & data cleaning                                                      | Mahdi Esmailoghli |  |
+|             | 2       | Data provenance                                                                   | Mahdi Esmailoghli |  |
+| 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Mahdi Esmailoghli |  |
+|             | 2       | LLMs and data management  (_virtual lecture_; DC  1304)                           | Mahdi Esmailoghli |  |
+| 13 (Dec 1) | 1       | Vector databases (_virtual lecture_; DC 1302)                                      | Mahdi Esmailoghli |  |
+|             | 2       | Review and general discussion                                                     | Yuhan Liu & Mahdi Esmailoghli |  |
+| 14 (Dec 8) |         | Reserved (buffer day in case a class needs to be rescheduled)                      |            |  |
+|   TBD  |         | Final Exam (Time TBD) Location TBD      |            |  |
