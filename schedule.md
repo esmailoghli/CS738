@@ -2,7 +2,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 --------------------------------------------
 
 | Week        | Lecture | Topic                                                                             | Speaker    | Materials |
-|-------------|---------|-------------------------------------------------------|-----------------------------------|-----------|
+|---------------|---------|-------------------------------------------------------|-----------------------------------|-----------|
 | 1 (Sep 10)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Yuhan Liu & Mahdi Esmailoghli |  |
 | 2 (Sep 15)  | 1       | Introduction to Database Systems                                                  | Yuhan Liu |  |
 |             | 2       | Relational model of data, relational calculus & algebra                           | Yuhan Liu |  |
