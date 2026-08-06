@@ -4,14 +4,13 @@ CS738 (Winter 2026)
 Data Engineering for Data Science
 =================================
 
--   **Instructor:** [M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) (Office:
-    DC3350)
+-   **Instructor:** [Yuhan Liu](TBD) (Office: DC3350) & [Mahdi Esmailoghli](https://esmailoghli.github.io/) (Office: DC3620)
 
--   **Lecture Room:** MC 2034
+-   **Lecture Room:** MC 4059
 
--   **Lecture Time:** Monday & Wednesday 2:30-3:50pm
+-   **Lecture Time:** Tuesday & Thursday 8:30-9:50am
 
--   **Office Hour** M 1:00-2:00pm
+-   **Office Hour** Yuhan Liu (TBD), Mahdi Esmailoghli (W 1:00-2:00pm)
 
  
 
@@ -62,13 +61,13 @@ Course Logistics
 
 -   Some logistics:
 
-    -   The lecture times are MW 2:30-3:50
+    -   The lecture times are Tuesday & Thursday 8:30-9:50am
 
-    -   My office hour is on M1:00-2:00
+    -   Our office hours are: Yuhan Liu (TBD), Mahdi Esmailoghli (W 1:00-2:00pm)
 
     -   The TAs for the course are 
-        -   Sepideh Abedini ([email](mailto:sepideh.abedini@uwaterloo.ca))
-        -   Enamul Haque ([email](mailto:e6haque@uwaterloo.ca))
+        -   TBD ([email](mailto:))
+        -   TBD ([email](mailto:))
 
 -   Final exam schedule will be announced by the Registrar's Office in due
     course and I cannot change the schedule. There will be no makeup for the
