@@ -40,24 +40,22 @@ Course Logistics
     is an in-person course and no accommodations are made for remote attendance.
     Please make arrangements to attend lectures.
 
--   The course will use LEARN for dissemination of notes and for discussions. I
-    have set up discussion topics for different components of the course. Please
+-   The course will use LEARN for dissemination of notes and for discussions. We
+    will set up discussion topics for different components of the course. Please
     post at the appropraite forum and refrain from sending me email with
     questions; post them on the discussion fora.
 
--   I will be posting lecture slides on LEARN (look under Content/Course
+-   We will be posting lecture slides on LEARN (look under Content/Course
     Slides). However, they may be posted shortly before lectures or sometimes
     even after a lecture. Some of them will be detailed, others just a skeleton.
     So, it is important to attend lectures to get the most from these.
 
--   There is no textbook for the course. I have started to write my notes and
-    I'll be posting them on LEARN (look under Content/Course Notes). I make no
-    promises about the availability of these notes for every topic -- I'll write
-    as much as I can. I may assign reading from other textbooks and papers as appropriate.
+-   There is no textbook for the course. Professor Özsu has started to write his notes and
+    we'll be posting them on LEARN (look under Content/Course Notes). We make no
+    promises about the availability of these notes for every topic. We may assign reading from other textbooks and papers as appropriate.
 
--   I intend to have guest lecturers for some topics and will update the
-    schedule as I get them confirmed. These guest lecture material are important and integral
-    components of the course.
+-   We intend to have guest lecturers for some topics and will update the
+    schedule as we get them confirmed. These guest lecture material are important and integral components of the course.
 
 -   Some logistics:
 
@@ -70,9 +68,8 @@ Course Logistics
         -   TBD ([email](mailto:))
 
 -   Final exam schedule will be announced by the Registrar's Office in due
-    course and I cannot change the schedule. There will be no makeup for the
-    final. You will need to take it the next time the course is offered (Fall
-    2026). You have to pass the final exam to pass the course.
+    course and we cannot change the schedule. There will be no makeup for the
+    final. You will need to take it the next time the course is offered (TBD). You have to pass the final exam to pass the course.
 
 -   There will be five quizzes in the course. These will be 20-30 minute quizzes
     and will likely be taken online within LEARN (I have not yet worked out the logistics). There will be no makesups for the quizzes. If you miss some, the weight will be distributed to other quizzes. You have to take at least three of the quizzes to pass the course.
@@ -81,11 +78,11 @@ Course Logistics
     later.
 
 -   There will be homework assignments for you to work through the material, but
-    these won't be marked - they are for you to review the material. I will
+    these won't be marked - they are for you to review the material. We will
     provide solutions when the deadline for working on them is completed.
 
 -   Two 48 hour extensions per student are provided. They may be used on one of
-    the two paper reviews (at most one may be used per paper review). Email me
+    the two paper reviews (at most one may be used per paper review). Email us
     and the TA at least 24 hours before the deadline to let us know that you're
     using it, and why. We will adjust the deadline on LEARN.
 
