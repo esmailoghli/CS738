@@ -10,7 +10,7 @@ Data Engineering for Data Science
 
 -   **Lecture Time:** Tuesday & Thursday 8:30-9:50am
 
--   **Office Hour** Yuhan Liu (TBD), Mahdi Esmailoghli (W 1:00-2:00pm)
+-   **Office Hour** Yuhan Liu (TBD), Mahdi Esmailoghli (Tue 1:00-2:00pm)
 
  
 
