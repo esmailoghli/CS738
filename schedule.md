@@ -12,18 +12,18 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Big data: Dealing with volume                                                     | Yuhan Liu |  |
 | 5 (Oct 6)   | 1       | Big data: Dealing with variety                                                    | Yuhan Liu |  |
 |             | 2       | Big data: Dealing with variety + velocity                                         | Yuhan Liu |  |
-| 6 (Oct 10–18) |         | Reading week - no classes                                                       |           |  |
-| 7 (Oct 20)   | 1       | Big data: Dealing with velocity                                                  | Yuhan Liu |  |
+| 6 (Oct 10–18)|        | Reading week - no classes                                                         |     -     |  |
+| 7 (Oct 20)  | 1       | Big data: Dealing with velocity                                                   | Yuhan Liu |  |
 |             | 2       | Cloud computing & cloud-native data management                                    | Yuhan Liu |  |
 | 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | Mahdi Esmailoghli |  |
 |             | 2       | Data integration: Data lakes                                                      | Mahdi Esmailoghli |  |
 | 9 (Nov 3)   | 1       | Data preparation pipeline                                                         | Mahdi Esmailoghli |  |
-|             | 2       | Data integration: Data lakehouses                                                 | Mahdi Esmailoghli |  |
-| 10 (Nov 10)  | 1       | Data acquisition                                                                 | Mahdi Esmailoghli |  |
-|             | 2       | Data profiling                                                                    | Mahdi Esmailoghli |  |
+|             | 2       | Data integration: Model lakes                                                     | Prof. Renée J. Miller |  |
+| 10 (Nov 10) | 1       | Data version management                                                           | Prof. Roee Shraga |  |
+|             | 2       | Data profiling                                                                    | Prof. Hazar Harmouch |  |
 | 11 (Nov 17) | 1       | Data quality & data cleaning                                                      | Mahdi Esmailoghli |  |
 |             | 2       | Data provenance                                                                   | Mahdi Esmailoghli |  |
-| 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Mahdi Esmailoghli |  |
+| 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Prof. Lukasz Golab |  |
 |             | 2       | LLMs and data management                                                          | Mahdi Esmailoghli |  |
 | 13 (Dec 1) | 1       | Vector databases                                                                   | Mahdi Esmailoghli |  |
 |             | 2       | Review and general discussion                                                     | Yuhan Liu & Mahdi Esmailoghli |  |
