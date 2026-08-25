@@ -20,12 +20,12 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 9 (Nov 3)   | 1       | Data preparation pipeline                                                         | Mahdi Esmailoghli |  |
 |             | 2       | Data integration: Model lakes                                                     | Prof. Renée J. Miller |  |
 | 10 (Nov 10) | 1       | Data version management                                                           | Prof. Roee Shraga |  |
-|             | 2       | Data profiling                                                                    | Prof. Hazar Harmouch |  |
+|             | 2       | LLMs and data management                                                          | Mahdi Esmailoghli |  |
 | 11 (Nov 17) | 1       | Data quality & data cleaning                                                      | Mahdi Esmailoghli |  |
 |             | 2       | Data provenance                                                                   | Mahdi Esmailoghli |  |
 | 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Prof. Lukasz Golab |  |
-|             | 2       | LLMs and data management                                                          | Mahdi Esmailoghli |  |
-| 13 (Dec 1) | 1       | Vector databases                                                                   | Mahdi Esmailoghli |  |
+|             | 2       | Data profiling (virtual lecture over Zoom)                                        | Prof. Hazar Harmouch |  |
+| 13 (Dec 1)  | 1       | Vector databases                                                                  | Mahdi Esmailoghli |  |
 |             | 2       | Review and general discussion                                                     | Yuhan Liu & Mahdi Esmailoghli |  |
-| 14 (Dec 8) |         | Reserved (buffer day in case a class needs to be rescheduled)                      |            |  |
+| 14 (Dec 8)  |         | Reserved (buffer day in case a class needs to be rescheduled)                     |            |  |
 |   TBD  |         | Final Exam (Time TBD) Location TBD      |            |  |
