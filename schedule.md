@@ -25,7 +25,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Data provenance                                                                   | Prof. Boris Glavic |  |
 | 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Prof. Lukasz Golab |  |
 |             | 2       | Data profiling (virtual lecture over Zoom)                                        | Prof. Hazar Harmouch |  |
-| 13 (Dec 1)  | 1       | Vector databases                                                                  | Mahdi Esmailoghli |  |
+| 13 (Dec 1)  | 1       | Vector databases                                                                  | Prof. Karima Echihabi |  |
 |             | 2       | Review and general discussion                                                     | Yuhan Liu & Mahdi Esmailoghli |  |
 | 14 (Dec 8)  |         | Reserved (buffer day in case a class needs to be rescheduled)                     |            |  |
-|   TBD  |         | Final Exam (Time TBD) Location TBD      |            |  |
+|   TBD       |         | Final Exam (Time TBD) Location TBD                                                |            |  |
