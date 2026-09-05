@@ -61,7 +61,7 @@ Course Logistics
 
     -   The lecture times are Tuesday & Thursday 8:30-9:50am
 
-    -   Our office hours are: Yuhan Liu (TBD), Mahdi Esmailoghli (W 1:00-2:00pm)
+    -   Our office hours are: Yuhan Liu (M 10:30-11:30am), Mahdi Esmailoghli (W 1:00-2:00pm)
 
     -   The TAs for the course are 
         -   TBD ([email](mailto:))
