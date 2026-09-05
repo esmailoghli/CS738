@@ -7,7 +7,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 2 (Sep 15)  | 1       | Introduction to Database Systems                                                  | Yuhan Liu |  |
 |             | 2       | Relational model of data, relational calculus & algebra                           | Yuhan Liu |  |
 | 3 (Sep 22)  | 1       | Relational algebra, SQL                                                           | Yuhan Liu |  |
-|             | 2       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | Yuhan Liu |  |
+|             | 2       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | Guest Speaker (TBD) |  |
 | 4 (Sep 29)  | 1       | Big data: Dealing with volume                                                     | Yuhan Liu |  |
 |             | 2       | Big data: Dealing with volume                                                     | Yuhan Liu |  |
 | 5 (Oct 6)   | 1       | Big data: Dealing with variety                                                    | Yuhan Liu |  |
