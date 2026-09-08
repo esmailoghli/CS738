@@ -1,4 +1,4 @@
-CS738 (Winter 2026)
+CS738 (Fall 2026)
 ===================
 
 Data Engineering for Data Science
