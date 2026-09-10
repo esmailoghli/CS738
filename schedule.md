@@ -3,9 +3,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 
 | Week        | Lecture | Topic                                                                             | Speaker    | Materials |
 |---------------|---------|-------------------------------------------------------|-----------------------------------|-----------|
-| 1 (Sep 10)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Yuhan Liu & Mahdi Esmailoghli | [Lecture Notes](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681733/View)
-<br>[Course Info](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681730/View)
-<br>[Introduction](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6703781/View)|
+| 1 (Sep 10)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Yuhan Liu & Mahdi Esmailoghli | [Lecture Notes](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681733/View)<br>[Course Info](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681730/View)<br>[Introduction](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6703781/View)|
 | 2 (Sep 15)  | 1       | Introduction to Database Systems                                                  | Yuhan Liu |  |
 |             | 2       | Relational model of data, relational calculus & algebra                           | Yuhan Liu |  |
 | 3 (Sep 22)  | 1       | Relational algebra, SQL                                                           | Yuhan Liu |  |
