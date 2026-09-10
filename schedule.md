@@ -15,7 +15,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 6 (Oct 10–18)|        | Reading week - no classes                                                         |     -     |  |
 | 7 (Oct 20)  | 1       | Big data: Dealing with velocity                                                   | Yuhan Liu |  |
 |             | 2       | Cloud computing & cloud-native data management                                    | Yuhan Liu |  |
-| 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | Mahdi Esmailoghli |  |
+| 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | Prof. Tamer Özsu |  |
 |             | 2       | Data integration: Data lakes                                                      | Mahdi Esmailoghli |  |
 | 9 (Nov 3)   | 1       | Data preparation pipeline                                                         | Mahdi Esmailoghli |  |
 |             | 2       | Data integration: Model lakes                                                     | Prof. Renée J. Miller |  |
