@@ -4,7 +4,7 @@ CS738 (Fall 2026)
 Data Engineering for Data Science
 =================================
 
--   **Instructor:** [Yuhan Liu](TBD) (Office: DC3350) & [Mahdi Esmailoghli](https://esmailoghli.github.io/) (Office: DC3620)
+-   **Instructor:** [Yuhan Liu](yuhan.liu@uwaterloo.ca) (Office: DC3350) & [Mahdi Esmailoghli](https://esmailoghli.github.io/) (Office: DC3620)
 
 -   **Lecture Room:** MC 4059
 
