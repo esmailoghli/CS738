@@ -65,7 +65,7 @@ Course Logistics
 
     -   The TAs for the course are 
         -   Idil Kara ([email](mailto:ikara@uwaterloo.ca))
-        -   TBD ([email](mailto:))
+        -   Jenny Zhu ([email](mailto:j373zhu@uwaterloo.ca))
 
 -   Final exam schedule will be announced by the Registrar's Office in due
     course and we cannot change the schedule. There will be no makeup for the
