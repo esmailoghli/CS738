@@ -3,9 +3,9 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 
 | Week        | Lecture | Topic                                                                             | Speaker    | Materials |
 |---------------|---------|-------------------------------------------------------|-----------------------------------|-----------|
-| 1 (Sep 10)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Yuhan Liu & Mahdi Esmailoghli | [01 Lecture Notes](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681733/View)<br>[02 Course Info](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681730/View)<br>[03 Introduction](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6703781/View)|
+| 1 (Sep 10)   | 1       | Course introduction; Structured Data Management: Introduction to Database Systems | Yuhan Liu & Mahdi Esmailoghli | [01 Lecture Notes](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681733/View)<br>[02 Course Info](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6703781/View)<br>[03 Introduction](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6681730/View)|
 | 2 (Sep 15)  | 1       | Introduction to Database Systems                                                  | Yuhan Liu |  |
-|             | 2       | Relational model of data, relational calculus & algebra                           | Yuhan Liu |  |
+|             | 2       | Relational model of data, relational calculus & algebra                           | Yuhan Liu | [02 Relational Model](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6715901/View) |
 | 3 (Sep 22)  | 1       | Relational algebra, SQL                                                           | Yuhan Liu |  |
 |             | 2       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | [Anil Goel](https://www.linkedin.com/in/anilkgoel/) |  |
 | 4 (Sep 29)  | 1       | Big data: Dealing with volume                                                     | Yuhan Liu |  |
