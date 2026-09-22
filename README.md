@@ -104,7 +104,7 @@ Marking Scheme (Tentative)
 
 -   **Paper critiques (2):** 40% [Guidelines](paper-review.md)
 
--   **Quizzes (5):** 20% 
+-   **Quizzes (4):** 20% 
 
 -   **Final:** 40%
 
