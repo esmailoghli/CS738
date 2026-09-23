@@ -61,11 +61,11 @@ Course Logistics
 
     -   The lecture times are Tuesday & Thursday 8:30-9:50am
 
-    -   Our office hours are: Yuhan Liu (Tues 10:30-11:30am), Mahdi Esmailoghli (W 1:00-2:00pm)
+    -   Our office hours are: Yuhan Liu (Tues 10:30-11:30am), Mahdi Esmailoghli (Wed. 1:00-2:00pm)
 
     -   The TAs for the course are 
-        -   Idil Kara ([email](mailto:ikara@uwaterloo.ca))
-        -   Jenny Zhu ([email](mailto:j373zhu@uwaterloo.ca))
+        -   Idil Kara ([email](mailto:ikara@uwaterloo.ca)) (Office hour: Wed. 9:00-10:00am)
+        -   Jenny Zhu ([email](mailto:j373zhu@uwaterloo.ca)) (Office hour: Wed. 3:00-4:00pm)
 
 -   Final exam schedule will be announced by the Registrar's Office in due
     course and we cannot change the schedule. There will be no makeup for the
