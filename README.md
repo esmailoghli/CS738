@@ -71,8 +71,8 @@ Course Logistics
     course and we cannot change the schedule. There will be no makeup for the
     final. You will need to take it the next time the course is offered (TBD). You have to pass the final exam to pass the course.
 
--   There will be five quizzes in the course. These will be 20-30 minute quizzes
-    and will likely be taken online within LEARN (I have not yet worked out the logistics). There will be no makesups for the quizzes. If you miss some, the weight will be distributed to other quizzes. You have to take at least three of the quizzes to pass the course.
+-   There will be four quizzes in the course. These will be 20-30 minute quizzes
+    and will likely be taken online within LEARN (I have not yet worked out the logistics).
 
 -   There will be two paper reviews. The logistics of these will be revealed
     later.
