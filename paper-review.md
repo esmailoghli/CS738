@@ -7,7 +7,7 @@ Paper Review Guidelines
 
 -   The following are the approved papers for the paper review assignments. You need to select two papers from **different** topic areas.
 
--   Both reviews are due March 25th. Of course, you can submit them whenever you are ready, but this is the deadline.
+-   The first paper review is due on Oct. 9th. Of course, you can submit them whenever you are ready, but this is the deadline.
 
 -   The reviews should be about 2,500–3,000 words, roughly 5 pages single-spaced in 11-12pt font with 1in margins.
 
