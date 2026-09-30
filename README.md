@@ -40,10 +40,7 @@ Course Logistics
     is an in-person course and no accommodations are made for remote attendance.
     Please make arrangements to attend lectures.
 
--   The course will use LEARN for dissemination of notes and for discussions. We
-    will set up discussion topics for different components of the course. Please
-    post at the appropraite forum and refrain from sending me email with
-    questions; post them on the discussion fora.
+-   The course will use LEARN for dissemination of notes and for discussions.
 
 -   We will be posting lecture slides on LEARN (look under Content/Course
     Slides). However, they may be posted shortly before lectures or sometimes
@@ -72,14 +69,10 @@ Course Logistics
     final. You will need to take it the next time the course is offered (TBD). You have to pass the final exam to pass the course.
 
 -   There will be four quizzes in the course. These will be 20-30 minute quizzes
-    and will likely be taken online within LEARN (I have not yet worked out the logistics).
+    and will be taken online within LEARN.
 
 -   There will be two paper reviews. The logistics of these will be revealed
     later.
-
--   There will be homework assignments for you to work through the material, but
-    these won't be marked - they are for you to review the material. We will
-    provide solutions when the deadline for working on them is completed.
 
 -   Two 48 hour extensions per student are provided. They may be used on one of
     the two paper reviews (at most one may be used per paper review). Email us
