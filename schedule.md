@@ -17,7 +17,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Big data: Dealing with velocity                                                   | Yuhan Liu |  |
 | 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | Prof. Tamer Özsu |  |
 |             | 2       | Data integration: Data lakes                                                      | Mahdi Esmailoghli |  |
-| 9 (Nov 3)   | 1       | Data preparation pipeline                                                         | Mahdi Esmailoghli |  |
+| 9 (Nov 3)   | 1       | Data preparation pipeline                                                         | Prof. Felix Naumann |  |
 |             | 2       | Data integration: Model lakes                                                     | Prof. Renée J. Miller |  |
 | 10 (Nov 10) | 1       | Data version management                                                           | Prof. Roee Shraga |  |
 |             | 2       | LLMs and data management                                                          | Mahdi Esmailoghli |  |
