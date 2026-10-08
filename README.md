@@ -66,7 +66,7 @@ Course Logistics
 
 -   Final exam schedule will be announced by the Registrar's Office in due
     course and we cannot change the schedule. There will be no makeup for the
-    final. You will need to take it the next time the course is offered (TBD). You have to pass the final exam to pass the course.
+    final. You will need to take it the next time the course is offered. You have to pass the final exam to pass the course.
 
 -   There will be four quizzes in the course. These will be 20-30 minute quizzes
     and will be taken online within LEARN.
