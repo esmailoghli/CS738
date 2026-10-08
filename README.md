@@ -68,8 +68,7 @@ Course Logistics
     course and we cannot change the schedule. There will be no makeup for the
     final. You will need to take it the next time the course is offered. You have to pass the final exam to pass the course.
 
--   There will be four quizzes in the course. These will be 20-30 minute quizzes
-    and will be taken online within LEARN.
+- There will be four quizzes throughout the course, each lasting 20–30 minutes and administered online through LEARN. **No make-up quizzes will be offered.** Instead, only your **best three out of four quiz scores** will count toward your final grade.
 
 -   There will be two paper reviews. The logistics of these will be revealed
     later.
