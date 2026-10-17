@@ -20,9 +20,9 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 9 (Nov 3)   | 1       | Data preparation pipeline                                                         | Prof. Felix Naumann |  |
 |             | 2       | Data integration: Model lakes                                                     | Prof. Renée J. Miller |  |
 | 10 (Nov 10) | 1       | Data version management                                                           | Prof. Roee Shraga |  |
-|             | 2       | LLMs and data management                                                          | Mahdi Esmailoghli |  |
-| 11 (Nov 17) | 1       | Spatial data management                                                           | Prof. Eleni Tzirita Zacharatou |  |
 |             | 2       | Data provenance                                                                   | Prof. Boris Glavic |  |
+| 11 (Nov 17) | 1       | Spatial data management                                                           | Prof. Eleni Tzirita Zacharatou |  |
+|             | 2       | LLMs and data management                                                          | Mahdi Esmailoghli |  |
 | 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Prof. Lukasz Golab |  |
 |             | 2       | Data profiling (virtual lecture over Zoom)                                        | Prof. Hazar Harmouch |  |
 | 13 (Dec 1)  | 1       | Vector databases                                                                  | Prof. Karima Echihabi |  |
