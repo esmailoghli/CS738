@@ -17,15 +17,15 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Big data: Dealing with velocity                                                   | Yuhan Liu |  |
 | 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | Prof. Tamer Özsu |  |
 |             | 2       | Data integration: Data lakes                                                      | Mahdi Esmailoghli |  |
-| 9 (Nov 3)   | 1       | Data preparation pipeline                                                         | Prof. Felix Naumann |  |
+| 9 (Nov 3)   | 1       | Data preparation pipeline (virtual lecture; DC 1302)                              | Prof. Felix Naumann |  |
 |             | 2       | Data integration: Model lakes                                                     | Prof. Renée J. Miller |  |
 | 10 (Nov 10) | 1       | Data version management                                                           | Prof. Roee Shraga |  |
 |             | 2       | Data provenance                                                                   | Prof. Boris Glavic |  |
 | 11 (Nov 17) | 1       | Spatial data management                                                           | Prof. Eleni Tzirita Zacharatou |  |
-|             | 2       | LLMs and data management                                                          | Mahdi Esmailoghli |  |
+|             | 2       | LLMs and data management (virtual lecture; DC 1302)                               | Mahdi Esmailoghli |  |
 | 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Prof. Lukasz Golab |  |
 |             | 2       | Data profiling (virtual lecture over Zoom)                                        | Prof. Hazar Harmouch |  |
-| 13 (Dec 1)  | 1       | Vector databases                                                                  | Prof. Karima Echihabi |  |
+| 13 (Dec 1)  | 1       | Vector databases (virtual lecture; DC 1302).                                      | Prof. Karima Echihabi |  |
 |             | 2       | Review and general discussion                                                     | Yuhan Liu & Mahdi Esmailoghli |  |
 | 14 (Dec 8)  |         | Reserved (buffer day in case a class needs to be rescheduled)                     |            |  |
 |   TBD       |         | Final Exam (Time TBD) Location TBD                                                |            |  |
