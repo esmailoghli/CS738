@@ -9,8 +9,8 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 3 (Sep 22)  | 1       | Relational algebra, SQL                                                           | Yuhan Liu | [SQL](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6720543/View) |
 |             | 2       | Database Workloads (OLTP, OLAP & HTAP systems)                                    | [Anil Goel](https://www.linkedin.com/in/anilkgoel/) | [Workloads](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6724846/View) |
 | 4 (Sep 29)  | 1       | Big data: Dealing with volume                                                     | Yuhan Liu | [BigData-Volume](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6727706/View) |
-|             | 2       | Big data: Dealing with volume                                                     | Yuhan Liu | [Cloud Native Database](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6743629/View)|
-| 5 (Oct 6)   | 1       | Cloud computing & cloud-native data management                                    | [Ronen Grosman](https://www.linkedin.com/in/ronen-grosman-84b3391/)|  |
+|             | 2       | Big data: Dealing with volume                                                     | Yuhan Liu | |
+| 5 (Oct 6)   | 1       | Cloud computing & cloud-native data management                                    | Ronen Grosman| [Cloud Native Database](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6743629/View)|
 |             | 2       | Big data: Dealing with variety                                                    | Yuhan Liu | [BigData-Variety](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6737042/View) |
 | 6 (Oct 10–18)|        | Reading week - no classes                                                         |     -     |  |
 | 7 (Oct 20)  | 1       | Big data: Dealing with variety + velocity                                         | Yuhan Liu |  |
