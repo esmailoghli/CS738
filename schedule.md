@@ -17,15 +17,15 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Big data: Dealing with velocity                                                   | Yuhan Liu | [BigData-Volecity](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6745983/View) |
 | 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | [Prof. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) |  |
 |             | 2       | Data integration: Data lakes                                                      | Mahdi Esmailoghli |  |
-| 9 (Nov 3)   | 1       | Data preparation pipeline (virtual lecture; DC 1302)                              | Prof. Felix Naumann |  |
-|             | 2       | Data integration: Model lakes                                                     | Prof. Renée J. Miller |  |
-| 10 (Nov 10) | 1       | Data version management                                                           | Prof. Roee Shraga |  |
-|             | 2       | Data provenance                                                                   | Prof. Boris Glavic |  |
-| 11 (Nov 17) | 1       | Spatial data management                                                           | Prof. Eleni Tzirita Zacharatou |  |
+| 9 (Nov 3)   | 1       | Data preparation pipeline (virtual lecture; DC 1302)                              | [Prof. Felix Naumann](https://hpi.de/en/database-group/people/felix-naumann/) |  |
+|             | 2       | Data integration: Model lakes                                                     | [Prof. Renée J. Miller](https://rjmillerlab.github.io/) |  |
+| 10 (Nov 10) | 1       | Data version management                                                           | [Prof. Roee Shraga](https://www.wpi.edu/people/faculty/rshraga) |  |
+|             | 2       | Data provenance                                                                   | [Prof. Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html) |  |
+| 11 (Nov 17) | 1       | Spatial data management                                                           | [Prof. Eleni Tzirita Zacharatou](https://heltzi.github.io/) |  |
 |             | 2       | LLMs and data management (virtual lecture; DC 1302)                               | Mahdi Esmailoghli |  |
-| 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | Prof. Lukasz Golab |  |
-|             | 2       | Data profiling (virtual lecture over Zoom)                                        | Prof. Hazar Harmouch |  |
-| 13 (Dec 1)  | 1       | Vector databases (virtual lecture; DC 1302).                                      | Prof. Karima Echihabi |  |
+| 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | [Prof. Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab) |  |
+|             | 2       | Data profiling (virtual lecture over Zoom)                                        | [Prof. Hazar Harmouch](https://hazourahh.github.io/) |  |
+| 13 (Dec 1)  | 1       | Vector databases (virtual lecture; DC 1302).                                      | [Prof. Karima Echihabi](https://echihabi.com/) |  |
 |             | 2       | Review and general discussion                                                     | Yuhan Liu & Mahdi Esmailoghli |  |
 | 14 (Dec 8)  |         | Reserved (buffer day in case a class needs to be rescheduled)                     |            |  |
 |   TBD       |         | Final Exam (Time TBD) Location TBD                                                |            |  |
