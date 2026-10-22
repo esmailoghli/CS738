@@ -14,7 +14,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Big data: Dealing with variety                                                    | Yuhan Liu | [BigData-Variety](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6737042/View) |
 | 6 (Oct 10–18)|        | Reading week - no classes                                                         |     -     |  |
 | 7 (Oct 20)  | 1       | Big data: Dealing with variety + velocity                                         | Yuhan Liu |  |
-|             | 2       | Big data: Dealing with velocity                                                   | Yuhan Liu |  |
+|             | 2       | Big data: Dealing with velocity                                                   | Yuhan Liu | [BigData-Volecity](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6745983/View) |
 | 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | Prof. Tamer Özsu |  |
 |             | 2       | Data integration: Data lakes                                                      | Mahdi Esmailoghli |  |
 | 9 (Nov 3)   | 1       | Data preparation pipeline (virtual lecture; DC 1302)                              | Prof. Felix Naumann |  |
