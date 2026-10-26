@@ -48,7 +48,7 @@ It should contain the following (you do not need section headings for these):
 
 A strong review goes beyond summarizing the paper: it offers technically accurate explanations, justified critical analysis, and concrete research ideas. Minor formatting issues are considered under Writing Quality and Compliance.
 
-## Late Submission Policy (Proposed — Pending Instructor Approval)
+3. Late Submission Policy (Proposed — Pending Instructor Approval)
 
 | Submission delay | Deduction |
 |---|---:|
