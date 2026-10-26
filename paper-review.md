@@ -29,6 +29,39 @@ It should contain the following (you do not need section headings for these):
 1. What is your view on how _effective_ and _efficient_ the solution(s) are?
 1. What are 3-4 lines of research you think would be good topics to pursue as extensions to this work. Consider one or two short-term extensions (work that can be done in less than one year) and a few topics of longer term research.
 
+
+### Review Grading
+
+1. Each paper review is worth **100 marks**. Your review should balance a clear explanation of the paper for readers unfamiliar with it and an independent, well-supported critique.
+2. Grading Breakdown:
+
+| Criterion | Marks |
+|---|---:|
+| Problem Definition | 10 |
+| Motivation and Significance | 10 |
+| Novelty and Contributions | 10 |
+| Technical Challenges and Solutions | 20 |
+| Critical Evaluation | 25 |
+| Future Research Directions | 15 |
+| Writing Quality and Compliance | 10 |
+| **Total** | **100** |
+
+A strong review goes beyond summarizing the paper: it offers technically accurate explanations, justified critical analysis, and concrete research ideas. Minor formatting issues are considered under Writing Quality and Compliance.
+
+## Late Submission Policy (Proposed — Pending Instructor Approval)
+
+| Submission delay | Deduction |
+|---|---:|
+| On time | 0 marks |
+| Up to 24 hours late | −15 marks |
+| More than 24 to 48 hours late | −20 marks |
+| More than 48 to 72 hours late | −25 marks |
+| More than 72 late | −30 marks |
+
+*Example:* A review graded 85/100 but submitted 30 hours late receives **65/100**.
+- Approved extensions and accommodations are exempt from late penalties within their authorized periods.
+
+
 ### Some Background Material
 
 You may also find the following useful:
