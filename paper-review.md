@@ -51,12 +51,12 @@ It should contain the following (you do not need section headings for these):
 | Submission delay | Deduction |
 |---|---:|
 | On time | 0 marks |
-| Up to 24 hours late | −15 marks |
-| More than 24 to 48 hours late | −20 marks |
-| More than 48 to 72 hours late | −25 marks |
-| More than 72 late | −30 marks |
+| Up to 24 hours late | −20 marks |
+| More than 24 to 48 hours late | −30 marks |
+| More than 48 to 72 hours late | −40 marks |
+| More than 72 late | −50 marks |
 
-*Example:* A review graded 85/100 but submitted 30 hours late receives **65/100**.
+*Example:* A review graded 85/100 but submitted 30 hours late receives **55/100**.
 - Approved extensions and accommodations are exempt from late penalties within their authorized periods.
 
 
