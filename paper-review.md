@@ -46,8 +46,6 @@ It should contain the following (you do not need section headings for these):
 | Writing Quality and Compliance | 10 |
 | **Total** | **100** |
 
-A strong review goes beyond summarizing the paper: it offers technically accurate explanations, justified critical analysis, and concrete research ideas. Minor formatting issues are considered under Writing Quality and Compliance.
-
 3. Late Submission Policy (Proposed — Pending Instructor Approval)
 
 | Submission delay | Deduction |
