@@ -22,7 +22,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 10 (Nov 10) | 1       | Data version management                                                           | [Prof. Roee Shraga](https://www.wpi.edu/people/faculty/rshraga) |  |
 |             | 2       | Data provenance                                                                   | [Prof. Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html) |  |
 | 11 (Nov 17) | 1       | Spatial data management                                                           | [Prof. Eleni Tzirita Zacharatou](https://heltzi.github.io/) |  |
-|             | 2       | LLMs and data management (virtual lecture; DC 1302)                               | Mahdi Esmailoghli |  |
+|             | 2       | LLMs and data management (virtual lecture; DC 1302)                               | [Prof. Immanuel Trummer](https://itrummer.github.io/) |  |
 | 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | [Prof. Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab) |  |
 |             | 2       | Data profiling (virtual lecture over Zoom)                                        | [Prof. Hazar Harmouch](https://hazourahh.github.io/) |  |
 | 13 (Dec 1)  | 1       | Vector databases (virtual lecture; DC 1302).                                      | [Prof. Karima Echihabi](https://echihabi.com/) |  |
