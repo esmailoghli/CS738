@@ -16,7 +16,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 | 7 (Oct 20)  | 1       | Big data: Dealing with variety + velocity                                         | Yuhan Liu |  |
 |             | 2       | Big data: Dealing with velocity                                                   | Yuhan Liu | [BigData-Volecity](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6745983/View) |
 | 8 (Oct 27)  | 1       | Data integration: Data warehouses                                                 | [Prof. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) | [Data warehouses](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6749309/View) |
-|             | 2       | Data integration: Data lakes + [Quiz #2](quiz2.md)                                | Mahdi Esmailoghli | [Data lakes](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6752107/View) |
+|             | 2       | Data integration: Data lakes + [Quiz #2](quiz2.md)                                | Mahdi Esmailoghli | [Data lakes](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6752209/View) |
 | 9 (Nov 3)   | 1       | Data preparation pipeline (virtual lecture; DC 1302)                              | [Prof. Felix Naumann](https://hpi.de/en/database-group/people/felix-naumann/) |  |
 |             | 2       | Data integration: Model lakes                                                     | [Prof. Renée J. Miller](https://rjmillerlab.github.io/) |  |
 | 10 (Nov 10) | 1       | Data version management                                                           | [Prof. Roee Shraga](https://www.wpi.edu/people/faculty/rshraga) |  |
