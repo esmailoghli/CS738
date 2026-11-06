@@ -25,7 +25,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | LLMs and data management (virtual lecture; DC 1302)                               | [Prof. Immanuel Trummer](https://itrummer.github.io/) |  |
 | 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | [Prof. Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab) |  |
 |             | 2       | Data profiling (virtual lecture; MC 4059)                                         | [Prof. Hazar Harmouch](https://hazourahh.github.io/) |  |
-| 13 (Dec 1)  | 1       | Vector databases (virtual lecture; DC 1302) $\color{red}{\textsf{(Paper Review \#2 Deadline)}}$ | [Prof. Karima Echihabi](https://echihabi.com/) |  |
-|             | 2       | Review and general discussion $\color{red}{\textsf{+ Quiz \#4}}$ | Yuhan Liu & Mahdi Esmailoghli |  |
+| 13 (Dec 1)  | 1       | Vector databases (virtual lecture; DC 1302) $`\color{red}{\textsf{(Paper Review \#2 Deadline)}}`$ | [Prof. Karima Echihabi](https://echihabi.com/) |  |
+|             | 2       | Review and general discussion $`\color{red}{\textsf{+ Quiz \#4}}`$ | Yuhan Liu & Mahdi Esmailoghli |  |
 | 14 (Dec 8)  |         | Reserved (buffer day in case a class needs to be rescheduled)                     |            |  |
 |   Dec 11       |         | Final Exam                                                |    Time 4:00 PM - 6:00 PM        |  Location STC 0010 |
