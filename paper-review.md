@@ -5,11 +5,11 @@ Paper Review Guidelines
 ### Logistics
 
 
--   The following are the approved papers for the paper review assignments. You need to select two papers from **different** topic areas.
+-   The following are the approved papers for the paper review assignments. You need to select two papers from **different** topic areas. The first submission from **A, B, C, and D** and the second paper review from **the remaining 5 groups (E, F, G, H, and I)**.
 
--   The first paper review is due on Oct. 9th. Of course, you can submit them whenever you are ready, but this is the deadline.
+-   The first paper review is due on **Oct. 9th**. Of course, you can submit them whenever you are ready, but this is the deadline. The second paper review is due on **Dec 1st, 11:59 PM**.
 
--   The reviews should be about 2,500–3,000 words, roughly 5 pages single-spaced in 11-12pt font with 1in margins.
+-   The reviews should be about **2,500–3,000 words**, roughly **5 pages** single-spaced in 11-12pt font with 1in margins.
 
 -   The reviews should be submitted in PDF (and only PDF). Name your files as <student-id,last-name-review1.pdf> (and similarly for the second one).
 
