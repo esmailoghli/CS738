@@ -205,7 +205,23 @@ These may be dated, but they are still relevant.
   **Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art.**
   *Proceedings of the ACM on Management of Data (PACMMOD)*, 3(1): Article 43, 2025
 
+---
 
+#### I. Data Lake Management
 
+- E. Zhu, F. Nargesian, K. Q. Pu, and R. J. Miller. [Link](http://www.vldb.org/pvldb/vol9/p1185-zhu.pdf)
+  **LSH Ensemble: Internet-Scale Domain Search.**  
+  *Proceedings of the VLDB Endowment (PVLDB)*, 9(12):1185–1196, 2016.
 
+- F. Nargesian, E. Zhu, K. Q. Pu, and R. J. Miller. [Link](http://www.vldb.org/pvldb/vol11/p813-nargesian.pdf)
+  **Table Union Search on Open Data.**  
+  *Proceedings of the VLDB Endowment (PVLDB)*, 11(7):813–825, 2018.
+
+- A. S. R. Santos, A. Bessa, C. Musco, and J. Freire. [Link](https://doi.org/10.1109/ICDE53745.2022.00264)
+  **A Sketch-Based Index for Correlated Dataset Search.**  
+  *Proceedings of the IEEE International Conference on Data Engineering (ICDE)*, pp. 2928–2941, 2022.
+
+- R. Shraga and R. J. Miller. [Link](https://www.vldb.org/pvldb/vol16/p1587-shraga.pdf)
+  **Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V.**  
+  *Proceedings of the VLDB Endowment (PVLDB)*, 16(6):1587–1600, 2023.
 
