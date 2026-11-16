@@ -23,7 +23,7 @@ Syllabus & Schedule (Unless otherwise indicated, courses are in-person)
 |             | 2       | Data provenance                                                                   | [Prof. Boris Glavic](https://www.cs.uic.edu/~bglavic/dbgroup/members/bglavic.html) | [Data provenance](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6765373/View) |
 | 11 (Nov 17) | 1       | Spatial data management  (virtual lecture; MC 4059) <span style="color:red">+ Quiz #3</span>  | [Prof. Eleni Tzirita Zacharatou](https://heltzi.github.io/) |  |
 |             | 2       | LLMs and data management (virtual lecture; DC 1302)                               | [Prof. Immanuel Trummer](https://itrummer.github.io/) | [LLMs](https://learn.uwaterloo.ca/d2l/le/content/1288961/viewContent/6768103/View) |
-| 12 (Nov 24) | 1       | Data quality & data cleaning                                                      | [Prof. Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab) |  |
+| 12 (Nov 24) | 1       | Data quality & data cleaning (<span style="color:red">starts at 8:45 in MC 4059</span>)                                                     | [Prof. Lukasz Golab](https://uwaterloo.ca/management-science-engineering/profile/lgolab) |  |
 |             | 2       | Data profiling (virtual lecture; MC 4059)                                         | [Prof. Hazar Harmouch](https://hazourahh.github.io/) |  |
 | 13 (Dec 1)  | 1       | Vector databases (virtual lecture; DC 1302) <span style="color:red">(Paper Review #2 Deadline)</span> | [Prof. Karima Echihabi](https://echihabi.com/) |  |
 |             | 2       | Review and general discussion <span style="color:red">+ Quiz #4</span>            | Yuhan Liu & Mahdi Esmailoghli |  |
